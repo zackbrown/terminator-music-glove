@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chuck NoteEvent.ck GloveEvent.ck PositionEvent.ck OSCManager.ck Voice.ck ISampleDrivenVoice.ck ElectricGuitarVoice.ck PianoVoice.ck Drum1Voice.ck Drum2Voice.ck PhasorVoice.ck JazzPianoVoice.ck JazzBassVoice.ck JazzTenorSaxVoice.ck JazzDrumKitVoice.ck DubstepBeat1Voice.ck DubstepBeat2Voice.ck DubstepBassVoice.ck DubstepSynth1Voice.ck DubstepSynth2Voice.ck VoiceManager.ck GloveEmulator.ck Metronome.ck LoopManager.ck SampleSpace.ck
