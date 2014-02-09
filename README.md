@@ -7,6 +7,14 @@ Many people who saw the glove in action said it looked like a "Terminator Glove,
 
 This project was a collaboration between Soyoung Shin, Andrew Smith, Tom Sommerville, and Zack Brown.
 
+The technologies involved include:
+
+  - OpenFrameworks for computer vision and serial communication
+  - Arduino with a firmware written in C
+  - C++ for serial communication
+  - OSC for communicating between C++ and ChucK
+  - ChucK, a sound-synthesis programming language
+
 Here is a video of the glove in action:  http://www.youtube.com/watch?v=4ANTxpZ2eXM
 
 
