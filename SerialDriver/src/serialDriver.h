@@ -1,6 +1,5 @@
-#ifndef _TEST_APP
-#define _TEST_APP
-
+#ifndef _SERIAL_DRIVER
+#define _SERIAL_DRIVER
 
 #include "ofMain.h"
 #include "ofxOsc.h"
@@ -11,7 +10,7 @@
 
 using namespace std;
 
-class testApp : public ofBaseApp{
+class serialDriver : public ofBaseApp{
 	
 	public:
 		

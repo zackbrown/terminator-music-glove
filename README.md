@@ -7,6 +7,8 @@ Many people who saw the glove in action said it looked like a "Terminator Glove,
 
 This project was a collaboration between Soyoung Shin, Andrew Smith, Tom Sommerville, and Zack Brown.
 
+Here is a video of the glove in action:  http://www.youtube.com/watch?v=4ANTxpZ2eXM
+
 
     ASC-hematic
 
